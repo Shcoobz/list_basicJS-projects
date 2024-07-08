@@ -11,7 +11,7 @@
         </p>
     </th>
     <th align="center">
-        <img width="350" height="1">
+        <img width="300" height="1">
         <p> 
             <small>
                 Image
